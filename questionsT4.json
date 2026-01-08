@@ -208,7 +208,7 @@
     {
       "question": "Un sistema operativo independiente de dispositivo:",
       "answers": ["Elimina la necesidad de controladores de dispositivo.", "Designa de manera uniforme a cada uno de los dispositivos, por ejemplo, en Unix se referencian como archivos.", "Obliga a que todos los dispositivos funcionen al mismo ritmo.", "No permite acceso directo a hardware específico."],
-      "correct": 1,
+      "correct": 2,
       "unit": 4
     },
     {
